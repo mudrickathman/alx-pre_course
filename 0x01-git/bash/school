@@ -1,4 +1,1 @@
-#!bin/bash
-#!/bin/bash
-echo"school"
-cd
+echo "The school is open"
